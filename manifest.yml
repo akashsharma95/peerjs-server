@@ -2,5 +2,5 @@ Name: peerjsserver
 Cartridge-Short-Name: PEERSERV
 Display-Name: peerserver
 Version: "1.1"
-Source-Url: https://github.com/akashsharma/peerjs-server.git
+Website: https://github.com/akashsharma/peerjs-server
 Cartridge-Vendor: akashsharma
